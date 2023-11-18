@@ -15,6 +15,8 @@ Message sent is on the contact us page. Admin can login from sign-in page and vi
 ## Responsive Design
 ![Screenshot (006)](./screenshot/ss5.png)
 ## Database View
-![Screenshot (007)](./screenshot/ss6.jpg) ![Screenshot (008)](./screenshot/ss7.jpg)
+![Screenshot (007)](./screenshot/ss6.jpg) 
+![Screenshot (008)](./screenshot/ss7.jpg)
+![Screenshot (009)](./screenshot/ss8.jpg)
 ## How to Run
 Install XAMPP Go To htdocs folder inside c:\xampp clone the project inside htdocs directory open localhost Done!
